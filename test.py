@@ -1,3 +1,4 @@
+'''
 Python – Core & Programming
 =============================================================================================
 Write a Python program to generate the Fibonacci series up to a given number.
@@ -136,3 +137,5 @@ How do you merge values from multiple columns into a single list?
 How do you remove duplicates while preserving sorted order?
 
 How do you find the second latest record using timestamp?
+
+'''
