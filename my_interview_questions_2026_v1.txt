@@ -1,0 +1,138 @@
+Python – Core & Programming
+=============================================================================================
+Write a Python program to generate the Fibonacci series up to a given number.
+
+What are compound data types in Python?
+
+What is a list in Python and how is it different from an array?
+
+Explain list comprehensions with an example.
+	fruits = ['Banana', 'Apple', 'Lime']
+	convert the elements to upper case letter
+
+What does the enumerate() function do in Python?
+	fruits = ['Banana', 'Apple', 'Lime']
+
+Explain the difference between / and // operators in Python.
+
+How does input and output work in Python?
+
+Write a Python program to calculate the product of elements in a list.
+
+What is the difference between local variables and global variables in Python?
+
+Explain the use of the global keyword.
+
+What is the __dict__ attribute in a Python class?
+
+Write a Python program to find the maximum element in an array.
+
+Write a Python program to find the minimum element in an array.
+
+What is the difference between a list and a tuple?
+
+Write a Python program to reverse each word in a sentence.
+
+Write a Python program to check whether a number is prime or not.
+
+Write a Python program to find the sum of all elements in a list.
+
+How do you find duplicate elements in a list?
+
+How do you count occurrences of elements in a list?
+
+How do you find common elements between two lists?
+
+What does extend() do in a Python list?
+
+How do you merge two lists using list comprehension?
+
+
+Pandas / Data Analysis
+=============================================================================================
+
+Write a Pandas program to calculate the average (mean) of multiple columns row-wise.
+
+How do you group data in Pandas and apply aggregation?
+
+How do you sort grouped values and store them as a list?
+
+How do you find the maximum aggregated value from a grouped DataFrame?
+
+How do you insert and delete columns in a Pandas DataFrame?
+
+How do you calculate sum and count for DataFrame columns?
+
+How do you check whether specific columns exist in a DataFrame?
+
+
+SQL Interview Questions
+=============================================================================================
+
+Write a SQL query to find the 2nd highest salary department-wise.
+
+What is the difference between ROW_NUMBER(), RANK(), and DENSE_RANK()?
+
+Explain LAG() and LEAD() window functions with examples.
+
+Write a SQL query to find employees earning more than their managers.
+
+Write a SQL query to calculate salary increment year-over-year.
+
+Write a SQL query to find the latest call record per caller and receiver.
+
+Write a SQL query to classify tasks as Easy, Medium, or Hard based on average score.
+
+How do window functions work in SQL?
+
+What is PARTITION BY used for?
+
+
+PySpark / Spark
+=============================================================================================
+
+What is an RDD in Spark?
+
+Explain the immutability of RDDs.
+
+Write a PySpark program to perform word count.
+
+What is the difference between RDD and DataFrame?
+
+How do you create an empty RDD in PySpark?
+
+How do you create an empty DataFrame with schema in PySpark?
+
+How do you create an empty DataFrame without schema?
+
+What happens if you perform operations on an empty RDD?
+
+Explain SparkSession and SparkContext.
+
+How do joins work in PySpark DataFrames?
+
+Explain window functions in PySpark.
+
+ETL / Data Engineering
+=============================================================================================
+
+What is the difference between a data lake and a data warehouse?
+
+Explain the ETL process using PySpark.
+
+What are UDFs in PySpark and when should you use them?
+
+How do you define schema explicitly while reading a CSV in Spark?
+
+Logic / Scenario-Based Questions
+=============================================================================================
+
+Write a program to calculate net salary using salary and bonus percentage.
+
+How do you find the city with the maximum total value from grouped data?
+
+How do you merge values from multiple columns into a single list?
+
+How do you remove duplicates while preserving sorted order?
+
+How do you find the second latest record using timestamp?
