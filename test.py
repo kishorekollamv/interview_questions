@@ -317,6 +317,7 @@ skeeG
 rof
 skeeG
 
+	'''
 empid dept salary year sal_incr
 101 sales 1000 2020  0
 101 sales 1500 2021  500
@@ -324,6 +325,7 @@ empid dept salary year sal_incr
 102 sales 3500 2020  0
 103 sales 1000 2020  0
 103 sales 2000 2021  1000
+	'''
 
 SELECT *, salary - LAG(salary, 1, 0) OVER(PARTITION BY dept ORDER BY empid) Result FROM T ORDER BY empid;
 ## Lag will have 1st record as null and fill the column from second record which includes data from first record. 
